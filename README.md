@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src="assets/demo.gif" width="600" alt="App demo">
+<img src="assets/sea_monster.gif" width="600" alt="App demo">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
@@ -31,7 +31,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Spent several hours refreshing my JavaScript syntax, especially around functions, array methods, and DOM manipulation.
 
 ## License
 
